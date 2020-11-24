@@ -1,4 +1,6 @@
 # Computer-Networks
+## If you are Purdue Students who take this course and work on the projects, please do the projects by yourself. Thank you very much!
+
 ece463 course in Purdue University which focused on computer networks and security
 
 This course contains two lab I need to finish.
